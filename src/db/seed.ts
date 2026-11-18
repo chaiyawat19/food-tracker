@@ -1,4 +1,3 @@
-import 'dotenv/config';
 import { eq } from 'drizzle-orm';
 import {
   getDb,
